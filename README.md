@@ -2,6 +2,12 @@
 Application of unsupervised learning methods to data collected from plants with the goal of obtaining high level information, such as air quality or temperature.
 
 
+## File structure
+- code: contains the notebook with the python code used to handle the data, train the models, and inspect the results.
+- figures: contains the graphs that put the results of the training into perspective.
+- resources: contains the literature used to learn about the topic at hand.
+
+
 ## Resources
 - Unsupervised Learning with Python: A Beginner's Guide (Scikit; [https://builtin.com/data-science/unsupervised-learning-python ](https://builtin.com/data-science/unsupervised-learning-python ))
 - Unsupervised Learning Tutorial (Scikit; [https://www.kaggle.com/code/sashr07/unsupervised-learning-tutorial ](https://www.kaggle.com/code/sashr07/unsupervised-learning-tutorial ))
